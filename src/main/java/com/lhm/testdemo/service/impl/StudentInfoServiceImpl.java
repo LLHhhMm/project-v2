@@ -30,7 +30,6 @@ public class StudentInfoServiceImpl extends ServiceImpl<StudentInfoDao, StudentI
      */
     @Override
     public StudentInfo queryById(Integer id) {
-//        studentInfoDao.
         return this.studentInfoDao.selectById(id);
     }
 

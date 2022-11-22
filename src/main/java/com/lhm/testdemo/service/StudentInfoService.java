@@ -1,10 +1,8 @@
 package com.lhm.testdemo.service;
 
-import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.baomidou.mybatisplus.extension.service.IService;
 import com.lhm.testdemo.entity.StudentInfo;
-import org.springframework.data.domain.PageRequest;
 
 /**
  * 学生信息表(StudentInfo)表服务接口

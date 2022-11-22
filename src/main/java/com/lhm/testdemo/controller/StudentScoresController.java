@@ -29,10 +29,5 @@ public class StudentScoresController {
         return studentScoresService.qryStudent();
     }
 
-
-
-
-
-
 }
 
